@@ -1,0 +1,21 @@
+{"level":"info","message":"Identity service is running on port 3001","service":"identity-service","timestamp":"2025-01-14T21:55:00.256Z"}
+{"0":" ","1":"r","2":"e","3":"a","4":"s","5":"o","6":"n","level":"error","message":"Unhandled rejection at ","service":"identity-service","timestamp":"2025-01-14T21:55:02.289Z"}
+{"level":"info","message":"Identity service is running on port 3001","service":"identity-service","timestamp":"2025-01-14T21:55:24.436Z"}
+{"0":" ","1":"r","2":"e","3":"a","4":"s","5":"o","6":"n","level":"error","message":"Unhandled rejection at ","service":"identity-service","timestamp":"2025-01-14T21:55:25.766Z"}
+{"level":"info","message":"Identity service is running on port 3001","service":"identity-service","timestamp":"2025-01-14T21:55:42.012Z"}
+{"0":" ","1":"r","2":"e","3":"a","4":"s","5":"o","6":"n","level":"error","message":"Unhandled rejection at ","service":"identity-service","timestamp":"2025-01-14T21:55:43.672Z"}
+{"level":"info","message":"Identity service is running on port 3001","service":"identity-service","timestamp":"2025-01-14T21:58:37.119Z"}
+{"0":" ","1":"r","2":"e","3":"a","4":"s","5":"o","6":"n","level":"error","message":"Unhandled rejection at ","service":"identity-service","timestamp":"2025-01-14T21:58:38.763Z"}
+{"level":"info","message":"Identity service is running on port 3001","service":"identity-service","timestamp":"2025-01-14T21:59:02.027Z"}
+{"0":" ","1":"r","2":"e","3":"a","4":"s","5":"o","6":"n","level":"error","message":"Unhandled rejection at ","service":"identity-service","timestamp":"2025-01-14T21:59:03.001Z"}
+{"level":"info","message":"Identity service is running on port 3001","service":"identity-service","timestamp":"2025-01-14T22:01:35.227Z"}
+{"0":" ","1":"r","2":"e","3":"a","4":"s","5":"o","6":"n","level":"error","message":"Unhandled rejection at ","service":"identity-service","timestamp":"2025-01-14T22:01:37.022Z"}
+{"level":"info","message":"Identity service is running on port 3001","service":"identity-service","timestamp":"2025-01-14T22:02:59.743Z"}
+{"level":"info","message":"Identity service is running on port 3001","service":"identity-service","timestamp":"2025-01-14T22:03:01.502Z"}
+{"level":"info","message":"Identity service is running on port 3001","service":"identity-service","timestamp":"2025-01-14T22:03:02.584Z"}
+{"level":"info","message":"Identity service is running on port 3001","service":"identity-service","timestamp":"2025-01-14T22:03:50.839Z"}
+{"0":" ","1":"r","2":"e","3":"a","4":"s","5":"o","6":"n","level":"error","message":"Unhandled rejection at ","service":"identity-service","timestamp":"2025-01-14T22:03:51.725Z"}
+{"level":"info","message":"Identity service is running on port 3001","service":"identity-service","timestamp":"2025-01-14T22:03:53.402Z"}
+{"0":" ","1":"r","2":"e","3":"a","4":"s","5":"o","6":"n","level":"error","message":"Unhandled rejection at ","service":"identity-service","timestamp":"2025-01-14T22:03:54.379Z"}
+{"level":"info","message":"Identity service is running on port 3001","service":"identity-service","timestamp":"2025-01-14T22:03:57.213Z"}
+{"0":" ","1":"r","2":"e","3":"a","4":"s","5":"o","6":"n","level":"error","message":"Unhandled rejection at ","service":"identity-service","timestamp":"2025-01-14T22:03:58.776Z"}
